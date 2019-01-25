@@ -1,0 +1,28 @@
+baseurl = "https://chattanooga.coffee/"
+languageCode = "en-us"
+title = "Chattanooga Coffee"
+theme = "hugo-cards"
+paginate = 12 
+
+[params]
+  builtBy = "Aaron Sachs"
+  defaultImage = "coffee.JPG"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = ""
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Aaron Sachs"
+     link = "https://aaron.sachs.blog"
+
