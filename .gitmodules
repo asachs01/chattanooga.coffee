@@ -4,3 +4,9 @@
 [submodule "themes/hugrid"]
 	path = themes/hugrid
 	url = https://github.com/aerohub/hugrid.git
+[submodule "hugo-myportfolio-theme"]
+	path = hugo-myportfolio-theme
+	url = https://github.com/2-REC/hugo-myportfolio-theme
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/MarcusVirg/forty.git
