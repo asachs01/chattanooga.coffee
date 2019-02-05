@@ -5,10 +5,10 @@ title = "Chattanooga Coffee Shops"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-133871541-1"
 
 # Enter your disqus shortname to enable comments
-disqusShortname = "chattanooga-coffee"
+#disqusShortname = "chattanooga-coffee"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -85,39 +85,39 @@ disqusShortname = "chattanooga-coffee"
     
     [[params.tiles.showcase]]
       title = "Mean Mug South"
-      subtitle = "Ipsum Dolor Sit Amet"
+      subtitle = ""
       image = "meanMugSouth.png"
       url = "blogs/meanmugsouth"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "The Camp House - COMING SOON"
+      subtitle = ""
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/camphouse"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "Goodman Coffee - COMING SOON"
+      subtitle = ""
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/goodmancoffee"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "Mad Priest Coffee Roasters - COMING SOON"
+      subtitle = ""
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/madpriestcoffeeroasters - COMING SOON"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Chattanooga Coffee Company - COMING SOON"
+      subtitle = ""
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/chattanoogacoffeecompany"
 
     [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Cadence Coffee Company - COMING SOON"
+      subtitle = ""
       image = "pic06.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/cadencecoffeecompany"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
